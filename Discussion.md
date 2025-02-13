@@ -15,3 +15,7 @@ Fast – Reduces unnecessary I/O operations.
 Scalable – Handles extremely large files effectively.
 Disadvantages: Slightly more complex to implement compared to a basic in-memory approach.
 Conclusion: Chosen as the final solution for its optimal balance of performance and scalability.
+
+Steps to run:
+go to the file location where extract_logs.js is saved.
+run: node extract_logs.js 2024-12-01
